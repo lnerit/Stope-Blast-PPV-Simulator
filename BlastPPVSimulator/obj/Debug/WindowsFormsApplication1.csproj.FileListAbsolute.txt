@@ -1,0 +1,11 @@
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmEmphiricalConstants.resources
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSimulationCalculator.resources
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMdiMain.resources
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Quizta'Lenz L Nerit\Google Drive\Final Year Project Supervision\Blast PPV simulation\BlastPPVsimulationApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
